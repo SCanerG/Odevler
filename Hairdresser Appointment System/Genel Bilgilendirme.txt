@@ -1,0 +1,10 @@
+Uygulamanın asıl amacı ülkenin herhangi bir şehrindeyken aynı şehirden ya da farklı şehirden ileri tarihli kuaför randevusu oluşturabilirsiniz. Mesela 1 hafta sonra şehir değiştireceksiniz ve gideceğiniz şehirde kuaföre gitmek istiyorsunuz bunu yapmak için o şehirde olmanıza gerek yok . 
+Randevu oluşturulurken müşterinin ve kuaförün şehir plaka kodları karşılaştırılır aynı ise  gridcontrol'de  ilgili sütun yeşile boyanır değil ise kırmızıya.
+Yeni randevu oluşturulduğu zaman kuaföre bilgilendirmek amaçlı otomatik bir mail gider . Mail içerisinde randevu detayları ve müşterinin iletişim bilgileri yer alır.
+Mail dizaynı tablo şeklindedir . Tablo düzenini html ve xml ile yaptım.
+
+Uygulamanın kodu %100 bana aittir. Kodlar için benimle iletişime geçebilirsiniz. 
+
+
+			s.canergenco@gmail.com 
+			      Sabri Caner GENCO

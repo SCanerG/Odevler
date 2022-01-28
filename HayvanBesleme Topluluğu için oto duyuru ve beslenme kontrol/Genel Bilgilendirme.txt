@@ -1,0 +1,8 @@
+Projenin Amacı üyesi olduğum hayvan hakları koruma topluluğunda duyuru paylaşımlarında sıkıntı yaşanması ve beslenme durumlarının düzenli kontrol edilememesinden dolayı işi pratikleştirmek ve sıkıntıları ortadan kaldırmak .
+
+Duyuru Maili atma işlemini vb.net kodunun içerisinde html ile yazdım . Beslenme çizelgesini her hafta pazar günü saat 23.50 de tüm kayıtları "beslenmedi"  olarak güncelliyor.Böylelikle gridcontrol de ki kayıtlar kırmızı renge boyanıyor. Çizelgeyi mail atmak için butona tıklayıp çizelgenin locationunu ve size'ını baz alarak ekran görüntüsünü alıyorum ve o görüntüyü tüm üyelere mail atıyorum.
+
+	Uygulamanın kodu %100 bana aittir . Kodlar için bana ulaşabilirsiniz
+
+		s.canergenco@gmail.com
+		Sabri Caner GENCO

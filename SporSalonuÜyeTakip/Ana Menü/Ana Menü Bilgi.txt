@@ -1,0 +1,11 @@
+Uygulamanın Anapaneli tek sayfadan oluşuyor . Fakat panelcontroller ile birden fazla control iç içe geçmiş durumda.Kullanıma göre visible true veya false değerlerini alıyor.
+Form Load eventinde üye kaydetme , silme , güncelleme işlemlerini yapabileceğimiz controller karşımıza çıkıyor . Gridcontrol1 de üyelerimizin bilgileri görünüyor . Herhangi bir üyeye çift tıkladığımız zaman o üyenin ölçüm bilgileri ve ölçüm yapılan tarih geliyor . Ayrıca üye kaydetme panelinin visible'ı false olurken ölçüm kaydetme visiblesi true oluyor. Böylelikle ölçüm ekleme , silme , güncelleme , rapor yazdırma ve üye ölçümlerini değerlendirme işlemlerini yapabiliyoruz.
+
+Mail Atma işlemi için herhangi bir kontrol bulunmuyor. Mail atma işlemi sql tabanlı çalışıyor. 
+Üyeleri kayıt ederken başlangıç tarihi sistem saatinden ve tarihinden otomatik çekiliyor. Bitiş tarihi ise üyelik süresi kadar ay eklenip hesaplanıyor ve sanal tablo yani view haline geliyor.Üyelik Dondurma işlemi gerçekleşirse textedit1'e yazılan gün kadar bitiş tarihinin üzerine dateadd sorgusu ile ekleme yapılıyor 
+
+	Uygulamanın kodu %100 bana aittir. Kodlar için benimle iletişime geçebilirsiniz. 
+
+
+			s.canergenco@gmail.com 
+			      Sabri Caner GENCO

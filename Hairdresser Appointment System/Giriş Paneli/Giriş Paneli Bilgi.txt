@@ -1,0 +1,3 @@
+Giriş Paneli formumuzda 4 adet buton bulunuyor . 
+İlki giriş yapabilmek için . Her kuaför ve her müşteri otomatik olarak üye tablosuna eklenir giriş yaparken kendi bilgileriyle giriş yapabilirler. 
+Onun dışında kuaför ya da müşteri olmadan programa giriş yapabilmek için Yeni Üye butonundan üye oluşturulabilir.

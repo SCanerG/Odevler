@@ -1,0 +1,2 @@
+İlk aşamada benim oluşturduğum admin ile giriş yapılıp yeni üye oluşturulabilir . 
+Yeni oluşturulan üyenin sporcu mu yetkili mi olduğunu seçerek belirtebiliriz . Bu ayrım tabi ki de üyenin yetkilerini belirliyor.

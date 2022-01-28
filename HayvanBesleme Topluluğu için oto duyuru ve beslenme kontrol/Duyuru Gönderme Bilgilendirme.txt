@@ -1,0 +1,1 @@
+Comboboxedit items koleksiyonuna topluluk görevlilerinin isimlerini yazdım . Duyuru göndermek için kimin gönderdiğini ve hangi yetki grubuna gönderileceğinin seçilmesi gerekiyor.Duyuru gönderme işini vb.net kodunun içerisinde html  kullanarak yapıyorum . 

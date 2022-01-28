@@ -1,0 +1,4 @@
+Uygulamanın Ana paneli xtratabcontrol ile menü haline getirildi . 
+=> 1. Sayfa randevu oluşturabilmek için , 2.Sayfa kuaför listelemek ve onları kontrol edebilmek için , 3.Sayfa müşteri listelemek ve onları kontrol edebilmek için ,4.Sayfa kullanıcı listelemek ve onları kontrol edebilmek için .
+Listelerde arama yapabilmek için gridcontrol autofilter kullanılabilir ya da büyüteç simgesine tıklanarak tüm tabloda arama yapılabilir.
+Müşteri bilgileri , kuaför bilgileri , şehir plaka kodları gridlookupedit ile direkt sql table'dan çekiliyor ki istenen bilgilere her an güncel ulaşabilelim.

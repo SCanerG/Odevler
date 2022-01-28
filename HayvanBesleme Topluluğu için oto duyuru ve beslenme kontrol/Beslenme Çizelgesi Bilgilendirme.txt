@@ -1,0 +1,6 @@
+Gridview'de ki her sütunu repositoryitembuttonedit kullanarak buton görevi görmesini sağladım . Hangi butona tıklanırsa o kayıt "beslendi" olarak güncelleniyor . GridviewRowstyle eventi ile kayıtları kontrol edip "Beslendi" olan kayıtları yeşile , "Beslenmedi" olan kayıtları kırmızıya boyuyorum ki hangi nokların beslenip beslenmediği daha rahat görülebilsin . Sql job aracılığıyla her hafta pazar günü saat 23.50 de tüm kayıtları beslenmedi olarak güncelliyorum yani beslenme durumları haftalık olarak başa dönüyor.
+
+Uygulamanın kodları %100 bana aittir . Kodlar için bana ulaşabilirsiniz.
+
+		s.canergenco@gmail.com
+		Sabri Caner GENCO

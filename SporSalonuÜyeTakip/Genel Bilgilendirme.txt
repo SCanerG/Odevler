@@ -1,0 +1,11 @@
+Uygulamanın amacı : Üyelerin kolayca filtrelenip sınıflandırılabilmesi ve yetkili kişiye üyenin üyelik bitiş tarihinden 3 gün öncesinde bilgilendirme maili gitmesi için.
+Mail atma işlemi sql sp_send_dbmail stored procedure'u kullanılarak yapıldı. Job ile her gün gece 23.50 de çalışması için stored procedure yazdım . Kontrolü yapıp 3 gün kalanları 23.50 de yetkiliye mail atarak bilgilendiriyor.
+Üyelerin belli aralıklarla vücut ölçülerinin alıp kaydedilmesi database table'da kaydediliyor. Ölçüm tablosu ve üye tablosu üye_id ile ilişkilendirildi . Tablolar arası 1-n ilişki var . Her üyenin 1 den fazla ölçüsü olabilir . Ölçümler tarihleriyle beraber kaydediliyor ve başladığı günden itibaren değişimler görülmek istenirse ilk ölçüm ve son ölçüm arasında ki farkı hesaplayıp ne kadar süre de ne kadar değişim olduğunu kullanıcı raporlama işlemiyle görebiliyor. 
+Mesela bir üyenin Ocak ayında ki kilosu 100 ise ve Mart ayında ki kilosu 88 ise 3 ayda 12 kilo , ayda 4 kilo  vermiş şeklinde görüntüleyebiliyoruz . 
+Xtrareport ile bunu rapor haline getirdim istenirse a4 kağıda çıktı alınabilir.
+
+Uygulamanın kodu %100 bana aittir. Kodlar için benimle iletişime geçebilirsiniz. 
+
+
+			s.canergenco@gmail.com 
+			      Sabri Caner GENCO
